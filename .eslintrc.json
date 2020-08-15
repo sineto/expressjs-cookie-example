@@ -1,0 +1,15 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2019,
+    "sourceType": "module"
+  }, 
+  "extends": [ "standard" ],
+  "rules": {
+    "semi": "off",
+    "no-constant-condition": "off"
+  }
+}
