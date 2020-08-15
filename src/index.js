@@ -1,5 +1,5 @@
 const express = require('express');
-const bodyParser = require('bodyParser');
+const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const path = require('path');
 
